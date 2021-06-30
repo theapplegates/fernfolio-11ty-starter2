@@ -10,5 +10,5 @@ A test post
 
 
 
-![An Audi RS7](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale,dpr_auto
+![An Audi RS7](https://res.cloudinary.com/paulportfolio/image/upload/f_auto,q_auto,w_auto,c_scale
 /v1591261009/Audi-RS7/A1911955_large.jpg)
